@@ -1,32 +1,149 @@
-# ⚔️ Pokémon KO Battle
+<h1 align="center">Pokémon KO Battle</h1>
 
-A turn-based battle simulator built with vanilla JavaScript and the [PokéAPI](https://pokeapi.co/).
+<p align="center">
+A turn-based Pokémon battle simulator built with <b>Vanilla JavaScript</b> and the <b>PokéAPI</b>. Battle using real Pokémon stats, type advantages, and dynamic gameplay.
+</p>
 
-![Demo](assets/demo.gif)
+<p align="center">
+<a href="https://auritrodeykirty07.github.io/pokemon-ko-battle/">
+<img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge" />
+</a>
 
-## What makes it work
+<a href="https://github.com/AuritroDeyKirty07/pokemon-ko-battle">
+<img src="https://img.shields.io/github/stars/AuritroDeyKirty07/pokemon-ko-battle?style=for-the-badge" />
+</a>
 
-- Fetches live Pokémon data (stats, moves, types, sprites) from the PokéAPI
-- Type-effectiveness logic — fire beats grass, water beats fire, etc.
-- Animated HP bars that update in real time
-- Turn-based game loop with win/lose state handling
-- Zero frameworks — pure JS, HTML, CSS
+<a href="https://github.com/AuritroDeyKirty07/pokemon-ko-battle/network/members">
+<img src="https://img.shields.io/github/forks/AuritroDeyKirty07/pokemon-ko-battle?style=for-the-badge" />
+</a>
+</p>
 
-## Tech
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PokéAPI](https://img.shields.io/badge/PokéAPI-EF5350?style=flat-square&logo=pokemon&logoColor=white)
+## Preview
 
-## Run locally
+<p align="center">
+<img src="assets/demo.gif" width="850">
+</p>
+
+---
+
+## Features
+
+- Turn-based Pokémon battle system
+- Live Pokémon data fetched directly from PokéAPI
+- Accurate type-effectiveness calculations
+- Animated HP bars
+- Random Pokémon battles
+- Official Pokémon sprites
+- Responsive interface
+- Built entirely with Vanilla JavaScript
+
+---
+
+## How It Works
+
+```text
+Select Pokémon
+        │
+        ▼
+Fetch Data from PokéAPI
+        │
+        ▼
+Calculate Stats & Types
+        │
+        ▼
+Player Attacks
+        │
+        ▼
+Enemy Attacks
+        │
+        ▼
+Update HP Bars
+        │
+        ▼
+Check Winner
+```
+
+---
+
+## Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| JavaScript (ES6) | Game Logic |
+| HTML5 | Structure |
+| CSS3 | Styling |
+| PokéAPI | Pokémon Data |
+
+---
+
+## Getting Started
+
+Clone the repository
 
 ```bash
-git clone https://github.com/AuritroDeyKirty07/pokemon-ko-battle
-cd pokemon-ko-battle
-# open index.html in your browser — no build step needed
+git clone https://github.com/AuritroDeyKirty07/pokemon-ko-battle.git
 ```
+
+Move into the project
+
+```bash
+cd pokemon-ko-battle
+```
+
+Open `index.html` in your browser.
+
+No installation.
+No dependencies.
+No build tools.
+
+---
+
+## What I Learned
+
+While building this project, I explored:
+
+- Fetch API
+- Async / Await
+- API Integration
+- DOM Manipulation
+- Game State Management
+- Battle Logic
+- Type Effectiveness Algorithms
+- UI Animations
+
+---
+
+## Future Improvements
+
+- Battle sound effects
+- Attack animations
+- AI-based opponent strategy
+- Save battle history
+- Multiple battle modes
+- Multiplayer support
+
+---
 
 ## Live Demo
 
-[Play it here →](https://auritrodeykirty07.github.io/pokemon-ko-battle/)
+https://auritrodeykirty07.github.io/pokemon-ko-battle/
+
+---
+
+## Connect With Me
+
+- **GitHub:** https://github.com/AuritroDeyKirty07
+- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINK
+- **Email:** mailto:deykirtyauritro@gmail.com
+
+---
+
+<div align="center">
+
+### ⭐ If you found this project useful, consider starring the repository!
+
+Made with ❤️ by **Auritro Dey Kirty**
+
+</div>
