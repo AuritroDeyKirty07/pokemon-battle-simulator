@@ -9,14 +9,6 @@ A turn-based Pokémon battle simulator built with <b>Vanilla JavaScript</b> and 
 <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/AuritroDeyKirty07/pokemon-ko-battle">
-<img src="https://img.shields.io/github/stars/AuritroDeyKirty07/pokemon-ko-battle?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/AuritroDeyKirty07/pokemon-ko-battle/network/members">
-<img src="https://img.shields.io/github/forks/AuritroDeyKirty07/pokemon-ko-battle?style=for-the-badge" />
-</a>
-</p>
 
 ---
 
