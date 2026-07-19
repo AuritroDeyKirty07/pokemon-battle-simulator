@@ -5,33 +5,37 @@ A turn-based Pokémon battle simulator built with <b>Vanilla JavaScript</b> and 
 </p>
 
 <p align="center">
-<a href="https://auritrodeykirty07.github.io/pokemon-ko-battle/">
-<img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge" />
-</a>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  <a href="https://auritrodeykirty07.github.io/pokemon-ko-battle/">
+    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PokéAPI-EF5350?style=flat-square&logo=pokemon&logoColor=white">
+</p>
 
 ---
 
 ## Preview
 
 <p align="center">
-<img src="./images/hero.PNG">
-<img src="./images/hero2.PNG">
+<img src="./images/hero.PNG" width="48%">
+<img src="./images/hero2.PNG" width="48%">
 </p>
 
 ---
 
 ## Features
 
-- Turn-based Pokémon battle system
-- Live Pokémon data fetched directly from PokéAPI
-- Accurate type-effectiveness calculations
-- Animated HP bars
-- Random Pokémon battles
-- Official Pokémon sprites
+- Turn-based battle system
+- Live Pokémon data fetched from PokéAPI
+- Type-effectiveness based damage calculation
+- Animated HP bars with smooth updates
+- Randomized Pokémon selection
+- Official Pokémon sprites and stats
 - Responsive interface
 - Built entirely with Vanilla JavaScript
 
@@ -98,16 +102,16 @@ No build tools.
 
 ## What I Learned
 
-While building this project, I explored:
+Building this project helped me gain practical experience with:
 
-- Fetch API
-- Async / Await
-- API Integration
-- DOM Manipulation
-- Game State Management
-- Battle Logic
-- Type Effectiveness Algorithms
-- UI Animations
+- Fetch API & asynchronous JavaScript
+- API integration using PokéAPI
+- DOM manipulation
+- Game state management
+- Turn-based battle mechanics
+- Type-effectiveness algorithms
+- UI updates and animations
+- Writing modular JavaScript
 
 ---
 
@@ -124,15 +128,15 @@ While building this project, I explored:
 
 ## Live Demo
 
-https://auritrodeykirty07.github.io/pokemon-ko-battle/
+[Launch Pokémon KO Battle](https://auritrodeykirty07.github.io/pokemon-ko-battle/)
 
 ---
 
 ## Connect With Me
 
-- **GitHub:** https://github.com/AuritroDeyKirty07
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINK
-- **Email:** mailto:deykirtyauritro@gmail.com
+- **GitHub:** https://github.com/AuritroDeyKirty07/
+- **LinkedIn:** https://www.linkedin.com/in/auritro-dey-kirty/
+- **Email:** https://mailto:deykirtyauritro@gmail.com
 
 ---
 
